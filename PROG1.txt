@@ -1,0 +1,10 @@
+ordenador-https://dle.rae.es/ordenador
+ratón-https://dle.rae.es/rat%C3%B3n
+móvil-https://dle.rae.es/m%C3%B3vil
+pared-https://dle.rae.es/pared
+mesa-https://dle.rae.es/mesa
+silla-https://dle.rae.es/silla
+grapadora-https://dle.rae.es/grapadora
+pintura-https://dle.rae.es/pintura
+bolígrafo-https://dle.rae.es/bol%C3%ADgrafo
+calendario-https://dle.rae.es/calendario
