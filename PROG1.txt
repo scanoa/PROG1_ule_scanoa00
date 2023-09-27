@@ -8,3 +8,13 @@ grapadora-https://dle.rae.es/grapadora
 pintura-https://dle.rae.es/pintura
 bolígrafo-https://dle.rae.es/bol%C3%ADgrafo
 calendario-https://dle.rae.es/calendario
+1. Gato - https://dle.rae.es/gato 
+2. Perro - https://dle.rae.es/perro?m=form
+3. Ratón - https://dle.rae.es/rat%C3%B3n?m=form
+4. Estrella - https://dle.rae.es/estrella?m=form
+5. Partida - https://dle.rae.es/partida?m=form
+6. Hierro - https://dle.rae.es/hierro?m=form
+7. Cajón - https://dle.rae.es/caj%C3%B3n?m=form
+8. Ventana - https://dle.rae.es/ventana?m=form
+9. Alfombra - https://dle.rae.es/alfombra?m=form
+10.Chuchería - https://dle.rae.es/chucher%C3%ADa?m=form
